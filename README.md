@@ -13,7 +13,7 @@
 - 💻 Skilled in **Python, Node.js, Vue, Django, and Vuetify**  
 - 🎨 Interested in **Web Development, Marketing & Sponsoring**  
 - 🎥 Love creating with **Montage / Video Editing (DaVinci Resolve)**  
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **zizour192005@gmail.com**
 
 ---
 
