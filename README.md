@@ -31,19 +31,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/zizou-123/stock-management" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zizou-123&repo=stock-management&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/zizou-123/admin-dashboard" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zizou-123&repo=admin-dashboard&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📖 Currently Learning  
 
 <p align="center">
