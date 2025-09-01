@@ -20,13 +20,10 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <!-- الصف الأول -->
   <img src="https://skillicons.dev/icons?i=python,nodejs,express,vue,vuetify,tailwind,js,html,css" />
   <br/>
-  <!-- الصف الثاني -->
   <img src="https://skillicons.dev/icons?i=django,github,git,chartjs,cpp,java,figma,photoshop" />
   <br/>
-  <!-- Cyber + Marketing -->
   <img src="https://img.shields.io/badge/Cybersecurity-%23000000.svg?&style=for-the-badge&logo=protonvpn&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Marketing-%23FF4500.svg?&style=for-the-badge&logo=googleads&logoColor=white" />
   <img src="https://img.shields.io/badge/Sponsoring-%23FF0000.svg?&style=for-the-badge&logo=adguard&logoColor=white" />
@@ -34,19 +31,35 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zizou-123&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizou-123&layout=compact&theme=radical" height="165"/>
+  <a href="https://github.com/zizou-123/stock-management" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zizou-123&repo=stock-management&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zizou-123/admin-dashboard" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zizou-123&repo=admin-dashboard&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
-## 🔥 Streak Stats  
+## 📖 Currently Learning  
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zizou-123&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/Vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-%23ffd859.svg?&style=for-the-badge&logo=vue.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pusher-%236C47FF.svg?&style=for-the-badge&logo=pusher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
+---
+
+## 🏆 Certificates & Achievements  
+
+- 🥇 Completed **TryHackMe CTF challenges**  
+- 🎓 Studying **Computer Science (Year 2)**  
+- 🏅 Built several **Web & Security projects**  
 
 ---
 
